@@ -1,0 +1,16 @@
+Please download the dataset and the results from Google Drive first!!!!
+
+# Training results
+https://drive.google.com/file/d/1qYqiNP5P0o78rGT_xySy28hl65YeZIUk/view?usp=drive_link
+
+
+
+1. Before running the code, you need to specify the location
+of the dataset to be used for training. In this study,
+we use the data under the yolov8_seg_dataset_clean folder,
+which should be specified directly in the system environment.
+
+2. yolo_f1 files include the training result of the model.
+
+3. To run the code, please first extract
+yolov8_seg_dataset_clean into the project directory.
